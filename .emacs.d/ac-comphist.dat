@@ -1,0 +1,24 @@
+((("global-auto-complete-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("global-set-key" .
+   [2 0 0 0 0 0 0 0 0 0 1 0 0 1])
+  ("global-" .
+   [0 0 0 0 0 0 2])
+  ("linux" .
+   [0 0 0 0 1])
+  ("kbd" .
+   [2 0 0])
+  ("string" .
+   [0 0 1 0 0 1])
+  ("integral" .
+   [0 0 1 0 0 0 0 0])
+  ("class" .
+   [0 0 0 1 0])
+  ("v" .
+   [6])
+  ("strftime_l" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("(char *__restrict __s, int __maxsize, const char *__restrict __format, const struct tm *__restrict __tp, __locale_t __loc)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("struct" .
+   [0 0 1 1 0 0])))

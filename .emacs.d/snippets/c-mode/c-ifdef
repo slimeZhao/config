@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: H_DEF
+# key: H_DEF
+# --
+#ifndef `(upcase
+            (concat "_H_"
+                    (car (split-string (buffer-name) "\\.")) "_H"))`
+#define `(upcase
+            (concat "_H_"
+                    (car (split-string (buffer-name) "\\.")) "_H"))`
+${0:}
+
+#endif  `(upcase
+            (concat "/*" "_H_"
+                    (car (split-string (buffer-name) "\\.")) "_H" "*/"))`
+
+

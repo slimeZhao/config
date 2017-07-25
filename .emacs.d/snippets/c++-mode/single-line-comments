@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: single-line comments
+# key: /*-
+# --
+/*${0:}*/
